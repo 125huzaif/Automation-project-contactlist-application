@@ -12,7 +12,12 @@ Testing deliverables include
 2) Testplan
 3) Testcases
 4) Bug report identifying issues in the application
-5) Automation with selenium webdriver and java
+5) Requirement tracibility matrix (RTM)
+6) Automation with selenium webdriver and java
+
+
+
+
 
 Tool : Excel / google sheet  for testcase
 Testplan : MsWord
