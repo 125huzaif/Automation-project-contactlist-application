@@ -15,11 +15,11 @@ Testing deliverables include
 6) Automation with selenium webdriver and java
 
 
-Tool : Excel used for testcase writing
-Testplan : MsWord used for testplan
-Bug report: MS word for BUg report 
-Selenium webdriver:  Selenium with java is used for automating the script along with framework TESTNG
-java version : java 8+
-IDE :   Eclipse
+Tool : **Excel used for testcase writing**
+Testplan : **MsWord used for testplan**
+Bug report: **MS word for BUg report **
+Selenium webdriver:  **Selenium with java is used for automating the script along with framework TESTNG**
+java version : **java 8+**
+IDE :   **Eclipse**
 
 
