@@ -19,11 +19,11 @@ Testing deliverables include
 
 
 
-Tool : Excel / google sheet  for testcase
-Testplan : MsWord
-Bug report: Msword can use Confluence or jira for bug tracking identifying issue, adding screenshot or video of bug
-Automation:  Selenium webdriver.
-Language :  java 8 or higher version recommended.
-Framework : TestNG
+Tool : Excel used for testcase writing
+Testplan : MsWord used for testplan
+Bug report: MS word for BUg report 
+Selenium webdriver:  Selenium with java is used for automating the script along with framework TESTNG
+java versio : java 8+
+IDE :   Eclipse
 
 
