@@ -1,7 +1,6 @@
 # Contact-list-application-testing
 This is a web application based on adding your contact and saved them in one application user can register it and then login into the
-application and can update,delete and add new contact in the application
-module
+application and can update,delete and add new contact in the application.
 
 1)signup
 2)Login
@@ -16,14 +15,11 @@ Testing deliverables include
 6) Automation with selenium webdriver and java
 
 
-
-
-
 Tool : Excel used for testcase writing
 Testplan : MsWord used for testplan
 Bug report: MS word for BUg report 
 Selenium webdriver:  Selenium with java is used for automating the script along with framework TESTNG
-java versio : java 8+
+java version : java 8+
 IDE :   Eclipse
 
 
